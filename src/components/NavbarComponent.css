@@ -1,0 +1,6 @@
+#suggestionBox {
+    position: absolute;
+    top: 54px;
+    border: 2px solid black;
+    width: 45%;
+  }
