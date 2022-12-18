@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-stock-manager-app/static/css/main.c3d2ab64.css",
+    "main.js": "/react-stock-manager-app/static/js/main.bcfd35f6.js",
+    "static/js/787.a3eb19a6.chunk.js": "/react-stock-manager-app/static/js/787.a3eb19a6.chunk.js",
+    "index.html": "/react-stock-manager-app/index.html",
+    "main.c3d2ab64.css.map": "/react-stock-manager-app/static/css/main.c3d2ab64.css.map",
+    "main.bcfd35f6.js.map": "/react-stock-manager-app/static/js/main.bcfd35f6.js.map",
+    "787.a3eb19a6.chunk.js.map": "/react-stock-manager-app/static/js/787.a3eb19a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d2ab64.css",
+    "static/js/main.bcfd35f6.js"
+  ]
+}
